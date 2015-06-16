@@ -1,5 +1,5 @@
 ## Functions set the inverse of a matrix and retrieve it from the cached memory if it 
-## is already calculated
+## is already calculated.
 
 ## This function sets and retrieves the inverse from the cache
 
